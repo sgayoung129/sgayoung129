@@ -62,7 +62,7 @@
 
 ## 📫 Contact
 
-- **Email**: [이메일 주소를 입력하세요.]
+- **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
 - **LinkedIn**: [LinkedIn 프로필 주소가 있다면 여기에 입력하세요.]
 
