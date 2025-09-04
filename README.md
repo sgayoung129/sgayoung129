@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sgayoung129">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=200&section=header&text=송가영%20profile&fontSize=65&fontColor=navy" />
   </a>
 </div>
 
@@ -50,30 +50,24 @@
 
 ---
 
+## 🎓 University Grades
+
+- **1학년 1학기**: 4.44/4.5 (18.5학점)
+- **1학년 2학기**:
+- **2학년 1학기**: 
+- **2학년 2학기**: 
+- ...
+
+---
+
 ## 🚀 Projects
-
-### [프로젝트 1 이름]
-
-- **설명**: [프로젝트에 대한 간단한 설명을 입력하세요.]
-- **역할**: [수행한 역할을 입력하세요. (예: 프론트엔드 개발, 백엔드 개발)]
-- **기술 스택**: [사용한 기술 스택을 입력하세요.]
-- **GitHub Repository**: [프로젝트의 GitHub 저장소 링크를 입력하세요.]
-
-### [프로젝트 2 이름]
-
-- **설명**: [프로젝트에 대한 간단한 설명을 입력하세요.]
-- **역할**: [수행한 역할을 입력하세요.]
-- **기술 스택**: [사용한 기술 스택을 입력하세요.]
-- **GitHub Repository**: [프로젝트의 GitHub 저장소 링크를 입력하세요.]
-
 ---
 
 ## 📫 Contact
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
-- **LinkedIn**: [LinkedIn 프로필 주소가 있다면 여기에 입력하세요.]
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
 </div>
