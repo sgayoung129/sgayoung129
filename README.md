@@ -1,26 +1,70 @@
+<div align="center">
+  <a href="https://github.com/sgayoung129">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90" />
+  </a>
+</div>
 
-<!--
-**sgayoung129/sgayoung129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h1>👋 안녕하세요! 송가영입니다.</h1>
+  
+  <p>AI와 소프트웨어 개발에 열정을 가진 학생입니다.</p>
+  <p>한신대학교 AI.SW계열에 재학 중이며, 새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
+  
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+## 👩‍💻 About Me
 
-## 💡About Me
-송가영
-<br>한신대학교 AI.SW 계열 재학 중
+- **이름**: 송가영
+- **소속**: 한신대학교 AI.SW계열
+- **관심 분야**: [여기에 관심 분야를 입력하세요. (예: 인공지능, 웹 개발, 데이터 사이언스)]
+- **블로그**: [블로그 주소가 있다면 여기에 입력하세요.]
+- **포트폴리오**: [포트폴리오 사이트가 있다면 여기에 입력하세요.]
 
-<p align="center">
+---
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+## 🛠️ Tech Stack
 
-</p>
+<div align="center">
+
+  <!-- 배우고 있거나 사용할 수 있는 기술 아이콘을 추가하세요. -->
+  <!-- 예시: https://github.com/devicons/devicon/tree/master/icons -->
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
+  
+</div>
+
+---
+
+## 🚀 Projects
+
+### [프로젝트 1 이름]
+
+- **설명**: [프로젝트에 대한 간단한 설명을 입력하세요.]
+- **역할**: [수행한 역할을 입력하세요. (예: 프론트엔드 개발, 백엔드 개발)]
+- **기술 스택**: [사용한 기술 스택을 입력하세요.]
+- **GitHub Repository**: [프로젝트의 GitHub 저장소 링크를 입력하세요.]
+
+### [프로젝트 2 이름]
+
+- **설명**: [프로젝트에 대한 간단한 설명을 입력하세요.]
+- **역할**: [수행한 역할을 입력하세요.]
+- **기술 스택**: [사용한 기술 스택을 입력하세요.]
+- **GitHub Repository**: [프로젝트의 GitHub 저장소 링크를 입력하세요.]
+
+---
+
+## 📫 Contact
+
+- **Email**: [이메일 주소를 입력하세요.]
+- **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
+- **LinkedIn**: [LinkedIn 프로필 주소가 있다면 여기에 입력하세요.]
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer"/>
+</div>
