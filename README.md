@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## 💡About Me
 송가영
-한신대학교 AI.SW 계열 재학 중
+<br>한신대학교 AI.SW 계열 재학 중
