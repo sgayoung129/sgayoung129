@@ -22,9 +22,8 @@
 - **관심 분야**: 인공지능, 데이터 사이언스
 - **포트폴리오**: [https://github.com/sgayoung129]
 
-
-<p align="center">
 ---
+<p align="center">
 ## 🛠️ Tech Stack
 
 <div align="center">
