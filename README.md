@@ -40,20 +40,6 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-![GitHub tokyonight](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgayoung129&layout=compact&theme=tokyonight)
-
----
-
-## 🛠 Languages I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-</p>
-
 ---
 ## 🏆 Certifications
 
@@ -76,6 +62,7 @@
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
+![GitHub tokyonight](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
