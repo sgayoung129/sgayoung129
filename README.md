@@ -1,3 +1,4 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=default)
 <div align="center">
   <a href="https://github.com/sgayoung129">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=200&section=header&text=송가영%20profile&fontSize=65&fontColor=navy" />
