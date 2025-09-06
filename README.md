@@ -62,6 +62,7 @@
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
+
 ![GitHub tokyonight](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=tokyonight)
 
 <div align="center">
