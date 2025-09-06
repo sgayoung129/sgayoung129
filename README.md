@@ -47,6 +47,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgayoung129&layout=compact&theme=tokyonight)
 
 ---
+
+## 🛠 Languages I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+</p>
+
+---
 ## 🏆 Certifications
 
 - [자격증 이름을 입력하세요.]
