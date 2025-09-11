@@ -43,8 +43,7 @@
 ---
 ## 🏆 Certifications
 
-- [자격증 이름을 입력하세요.]
-- [자격증 이름을 입력하세요.]
+- 
 
 ---
 ## 🎓 University Grades
@@ -57,6 +56,7 @@
 ## 🚀 Projects
 
 - SLAM : Arduino & Unity Simulation
+- 
 ---
 ## 📫 Contact
 
