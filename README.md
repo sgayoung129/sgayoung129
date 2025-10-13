@@ -24,7 +24,7 @@
 ---
 <p align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
  
 <div align="center">
 
@@ -40,14 +40,14 @@
 </div>
 
 ---
-## 🏆 Certifications
+## 🏆 Certifications 
 
 - 
 - ...
 
 
 ---
-## 🎓 University Grades
+## 🎓 University Grades 
 
 - **1학년 1학기**: 4.44/4.5 (18.5학점)
 - **1학년 2학기**: /4.5 (20.5학점)
@@ -56,7 +56,7 @@
 - ...
 
 ---
-## 🚀 Projects
+## 🚀 Projects 
 
 - SLAM : Arduino & Unity Simulation
 - ...
