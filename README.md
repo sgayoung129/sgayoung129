@@ -40,7 +40,7 @@
 </div>
 
 ---
-## 🏆 Certifications
+## 🏆 Certifications 
 
 - 
 - ...
