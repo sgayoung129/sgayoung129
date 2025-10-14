@@ -56,7 +56,7 @@
 - ...
 
 ---
-## 🚀 Projects 
+## 🚀 Projects
 
 - SLAM : Arduino & Unity Simulation
 - ...
