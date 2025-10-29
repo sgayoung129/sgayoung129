@@ -60,6 +60,25 @@
 
 - SLAM : Arduino & Unity Simulation
 - ...
+- 
+---
+## 📈 Top Languages
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgayoung129&layout=compact&langs_count=12&card_width=450&hide_border=true&title_color=4A4A4A&text_color=333333&bg_color=ffffff&icon_color=FFB347"
+    height="220"
+  />
+</div>
+
+---
+
+## 🔥 Activity Graph (Animated)
+[![Song gayoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/gayoung129/gayoung129/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 📫 Contact
 
