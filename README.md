@@ -71,15 +71,6 @@
 </div>
 
 ---
-
-## 🔥 Activity Graph (Animated)
-[![Song gayoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/gayoung129/gayoung129/blob/output/github-contribution-grid-snake.svg)
----
 ## 📫 Contact
 
 - **Email**: sgayoung129@gmail.com
