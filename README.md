@@ -58,8 +58,23 @@
 ---
 ## 🚀 Projects 
 
-- SLAM : Arduino & Unity Simulation
-- ...
+### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) (진행 중)
+
+* **프로젝트 제목 및 목적**: 아두이노를 활용한 물리적 매핑과 유니티 시뮬레이션을 결합한 미니 SLAM 프로젝트입니다.
+* **주요 기능 및 사용 기술**: 
+  - **주요 기능**: 
+    - 아두이노 기반 데이터 수집 및 전처리 (초음파 센서)
+    - Unity를 활용한 SLAM 알고리즘 시뮬레이션
+    - Python을 이용한 데이터 통신 및 시각화
+  - **사용 기술**: Arduino, Unity, Python
+* **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
+
+### [Project Name 2]
+
+* **프로젝트 제목 및 목적**: 
+* **주요 기능 및 사용 기술**: 
+* **실행(또는 배포) 방법**: 
+
 ---
 ## 🔥 Activity Graph (Animated)
 [![sgayoung129's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
