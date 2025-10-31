@@ -95,15 +95,20 @@
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%; padding:0; vertical-align:top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=dark&count_private=true" alt="sgayoung129's GitHub Stats"/>
-    </td>
-    <td style="width:50%; padding:0; vertical-align:top;">
-      <img src="https://github-profile-trophy.vercel.app/?username=sgayoung129&row=2&column=2&theme=dark" alt="sgayoung129's GitHub Trophies"/>
-    </td>
-  </tr>
+<div align="center">
+
+  <table style="width:70%; margin-left:auto; margin-right:auto;">
+    <tr>
+      <td style="width:50%; padding:10px; vertical-align:top;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=dark&count_private=true" alt="sgayoung129's GitHub Stats"/>
+      </td>
+      <td style="width:50%; padding:10px; vertical-align:top;">
+        <img src="https://github-profile-trophy.vercel.app/?username=sgayoung129&row=2&column=2&theme=dark" alt="sgayoung129's GitHub Trophies"/>
+      </td>
+    </tr>
+  </table>
+  </div>
+
 </table>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
