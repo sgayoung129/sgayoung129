@@ -1,23 +1,28 @@
-name: generate snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정에 실행 (시간 변경 가능)
+    - cron: "0 0 * * *" # 매일 자정(UTC 기준)에 실행
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: Platane/snk@v3
         with:
-          node-version: '12'
-      - uses: anuraghazra/github-pages@master
+          github_user_name: sgayoung129 # <--- 깃허브 ID 입력 (현재 정확함)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          username: sgayoung129  # 이 부분은 사용자 ID로 자동 처리됨
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: Update snake animation
-          branch: output
-          destination_dir: .
-          generator: snake
+          target_branch: output # <--- 생성된 SVG 파일을 저장할 브랜치
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
