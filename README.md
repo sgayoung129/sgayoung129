@@ -77,27 +77,31 @@
 * **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
 
 ---
-## 📈 Top Languages & Activity Graph (Animated)
+## 📈 Stats
 <div align="center">
-  
-  <div align="center">
-  
   <table style="width:100%;">
     <tr>
-      <td style="width:400px; padding:10px; vertical-align:top;"> 
+      <td style="width:33%; padding:10px; vertical-align:top;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgayoung129&layout=compact&theme=dark" 
              alt="Most Used Languages" 
-             width="100%"/> 
+             style="width:98%;"/> 
       </td>
-      
-      <td style="padding:10px; vertical-align:top;"> 
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
-             alt="sgayoung129's Contribution Graph" 
-             width="100%"/> 
+      <td style="width:33%; padding:10px; vertical-align:top;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=dark&count_private=true" alt="sgayoung129's GitHub Stats"/>
+      </td>
+      <td style="width:33%; padding:10px; vertical-align:top;">
+        <img src="https://github-profile-trophy.vercel.app/?username=sgayoung129&row=2&column=3&theme=dark" alt="sgayoung129's GitHub Trophies"/>
       </td>
     </tr>
   </table>
+</div>
 
+---
+## 🔥 Activity Graph (Animated)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
+       alt="sgayoung129's Contribution Graph" 
+       style="width:98%;"/>
 </div>
 
 <div align="center">
@@ -112,22 +116,6 @@
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
-
-<div align="center">
-
-  <table style="width:70%; margin-left:auto; margin-right:auto;">
-    <tr>
-      <td style="width:50%; padding:10px; vertical-align:top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=dark&count_private=true" alt="sgayoung129's GitHub Stats"/>
-      </td>
-      <td style="width:50%; padding:10px; vertical-align:top;">
-        <img src="https://github-profile-trophy.vercel.app/?username=sgayoung129&row=2&column=2&theme=dark" alt="sgayoung129's GitHub Trophies"/>
-      </td>
-    </tr>
-  </table>
-  </div>
-
-</table>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
 </div>
