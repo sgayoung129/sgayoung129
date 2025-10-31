@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <h1> 👋 안녕하세요 ❁´◡`❁ 송가영입니다. </h1>
+  <h1> 👋 안녕하세요´◡` 송가영입니다. </h1>
   
   <p> AI와 소프트웨어 개발에 열정을 가진 학생입니다. 👩‍🏫 </p>
   <p> 새로운 기술을 배우고 적용하는 것을 즐깁니다. 🙂 </p>
@@ -59,7 +59,7 @@
 ---
 ## 🚀 Projects 
 
-### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation)  (진행 중)
+### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation)  (진행 중⋯)
 
 * **프로젝트 제목 및 목적**: 아두이노를 활용한 물리적 매핑과 유니티 시뮬레이션을 결합한 미니 SLAM 프로젝트입니다.
 * **주요 기능 및 사용 기술**: 
