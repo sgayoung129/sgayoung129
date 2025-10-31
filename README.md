@@ -68,16 +68,17 @@
     - Python을 이용한 데이터 통신 및 시각화
   - **사용 기술**: Arduino, Unity, Python
 * **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
-
-### [Project Name 2]
-
-* **프로젝트 제목 및 목적**: 
-* **주요 기능 및 사용 기술**: 
-* **실행(또는 배포) 방법**: 
-
 ---
 ## 🔥 Activity Graph (Animated)
 [![sgayoung129's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 ## 📈 Top Languages
