@@ -1,27 +1,23 @@
-name: Generate Snake
+name: generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run every day at midnight
-  workflow_dispatch: # Allow manual triggering
+    - cron: "0 0 * * *" # 매일 자정에 실행 (시간 변경 가능)
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/setup-node@v1
         with:
-          github_user_name: sgayoung129
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v2
+          node-version: '12'
+      - uses: anuraghazra/github-pages@master
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: sgayoung129  # 이 부분은 사용자 ID로 자동 처리됨
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Update snake animation
+          branch: output
+          destination_dir: .
+          generator: snake
