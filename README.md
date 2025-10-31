@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
   <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
   
@@ -58,7 +59,7 @@
 ---
 ## 🚀 Projects 
 
-### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) (진행 중)
+### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation)  (진행 중)
 
 * **프로젝트 제목 및 목적**: 아두이노를 활용한 물리적 매핑과 유니티 시뮬레이션을 결합한 미니 SLAM 프로젝트입니다.
 * **주요 기능 및 사용 기술**: 
@@ -79,7 +80,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg)
 ---
 ## 📈 Top Languages
 <div align="center">
@@ -96,6 +97,7 @@
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sgayoung129&row=1&column=4&theme=dark)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
