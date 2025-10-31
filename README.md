@@ -79,6 +79,7 @@
        alt="github contribution grid snake animation" 
        style="max-width: 90%;">
 </div>
+
 ---
 ## 📈 Top Languages
 <div align="center">
