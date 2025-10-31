@@ -81,8 +81,9 @@
   </picture>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 90%;">
+</div>
 ---
 ## 📈 Top Languages
 <div align="center">
