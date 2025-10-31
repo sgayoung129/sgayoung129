@@ -79,8 +79,8 @@
 ---
 ## 🔥 Activity Graph (Animated) & contribution Snake 🐍
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
-       alt="sgayoung129's Contribution Graph" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129&theme=github"
+       alt="sgayoung129's Contribution Graph"
        style="width:98%;"/>
 </div>
 
