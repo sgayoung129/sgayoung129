@@ -77,6 +77,22 @@
 * **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
 
 ---
+## 🔥 Activity Graph (Animated) & contribution Snake 🐍
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
+       alt="sgayoung129's Contribution Graph" 
+       style="width:98%;"/>
+</div>
+
+<div align="center">
+  <h3>✨ GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" 
+       alt="github contribution grid snake animation" 
+       style="max-width: 90%;">
+</div>
+
+---
+
 ## 📈 Stats
 <div align="center">
   <table style="width:100%;">
@@ -97,25 +113,11 @@
 </div>
 
 ---
-## 🔥 Activity Graph (Animated)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
-       alt="sgayoung129's Contribution Graph" 
-       style="width:98%;"/>
-</div>
-
-<div align="center">
-  <h3>✨ GitHub Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" 
-       alt="github contribution grid snake animation" 
-       style="max-width: 90%;">
-</div>
-
----
 ## 📫 Contact
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
 </div>
