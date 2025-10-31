@@ -74,15 +74,10 @@
 [![sgayoung129's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 90%;">
+  <h3>✨ GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/sgayoung129/sgayoung129/output/github-contribution-grid-snake.svg" 
+       alt="github contribution grid snake animation" 
+       style="max-width: 90%;">
 </div>
 ---
 ## 📈 Top Languages
