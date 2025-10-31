@@ -84,15 +84,16 @@
   
   <table style="width:100%;">
     <tr>
-      <td style="width:50%; padding:0; vertical-align:top;">
+      <td style="width:400px; padding:10px; vertical-align:top;"> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgayoung129&layout=compact&theme=dark" 
              alt="Most Used Languages" 
-             style="width:98%;"/> 
+             width="100%"/> 
       </td>
-      <td style="width:50%; padding:0; vertical-align:top;">
+      
+      <td style="padding:10px; vertical-align:top;"> 
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129" 
              alt="sgayoung129's Contribution Graph" 
-             style="width:98%;"/>
+             width="100%"/> 
       </td>
     </tr>
   </table>
