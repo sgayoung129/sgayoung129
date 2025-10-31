@@ -67,15 +67,13 @@
     - 아두이노 기반 데이터 수집 및 전처리 (초음파 센서)
     - Unity를 활용한 SLAM 알고리즘 시뮬레이션
     - Python을 이용한 데이터 통신 및 시각화
-  - **사용 기술**: Arduino, Unity, Python
-* **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
-
-#### ⚙️ 사용 중인 핵심 기술
-<p align="center">
+  - **사용 기술** ⚙️ : <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> &nbsp;
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/> &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+* **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
+
 
 ---
 ## 🔥 Activity Graph (Animated)
