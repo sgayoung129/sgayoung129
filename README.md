@@ -59,7 +59,7 @@
 ---
 ## 🚀 Projects 
 
-### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation)  (진행 중⋯)
+### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
 * **프로젝트 제목 및 목적**: 아두이노를 활용한 물리적 매핑과 유니티 시뮬레이션을 결합한 미니 SLAM 프로젝트입니다.
 * **주요 기능 및 사용 기술**: 
@@ -69,6 +69,14 @@
     - Python을 이용한 데이터 통신 및 시각화
   - **사용 기술**: Arduino, Unity, Python
 * **실행(또는 배포) 방법**: [GitHub Repository](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) 참조
+
+#### ⚙️ 사용 중인 핵심 기술
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> &nbsp;
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/> &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
 ---
 ## 🔥 Activity Graph (Animated)
 [![sgayoung129's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgayoung129&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
