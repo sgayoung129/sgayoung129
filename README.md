@@ -95,7 +95,7 @@
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true&theme=stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgayoung129&show_icons=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=100&section=footer"/>
