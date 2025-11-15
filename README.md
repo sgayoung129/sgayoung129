@@ -24,7 +24,7 @@
 ---
 <p align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
