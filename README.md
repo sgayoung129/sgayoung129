@@ -29,7 +29,7 @@
 <div align="center">
 
   <!-- 배우고 있거나 사용할 수 있는 기술 아이콘을 추가하세요. -->
-  <!-- 예시: https://github.com/devicons/devicon/tree/master/icons -->
+  <!-- 예시:  https://github.com/devicons/devicon/tree/master/icons -->
  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
