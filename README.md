@@ -112,7 +112,7 @@
 </div>
 
 ---
-## 📫 Contact 
+## 📫 Contact
 
 - **Email**: sgayoung129@gmail.com
 - **GitHub**: [https://github.com/sgayoung129](https://github.com/sgayoung129)
