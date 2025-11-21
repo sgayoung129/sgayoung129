@@ -67,7 +67,7 @@
     - Unity를 활용한 SLAM 알고리즘 시뮬레이션
     - Python을 이용한 데이터 통신 및 시각화
   - **사용 기술** : 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> &nbsp;
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/> &nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
