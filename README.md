@@ -56,7 +56,7 @@
 - ...
 
 ---
-## 🚀 Projects 
+## 🚀 Projects
 
 ### [SLAM : Arduino & Unity Simulation](https://github.com/sgayoung129/SLAM-Arduino-Unity-Simulation) ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
