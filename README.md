@@ -41,7 +41,7 @@
 </div>
 
 ---
-## 🏆 Certifications
+## 🏆 Certifications 
 
 - SQLD(SQL 개발자) 준비 중 ⋯ 
 - ...
