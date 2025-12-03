@@ -20,7 +20,7 @@
 - **소속**: 한신대학교 AI.SW계열(2025~)
 - **관심 분야**: 인공지능
 - **포트폴리오**: [https://github.com/sgayoung129]
- 
+  
 ---
 <p align="center">
 
